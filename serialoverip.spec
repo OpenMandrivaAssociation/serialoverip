@@ -1,4 +1,4 @@
-Summary:	Tool for transport of asynchronous serial devices over UDP/IP.
+Summary:	Tool for transport of asynchronous serial devices over UDP/IP
 Name:		serialoverip
 Version:	1.0
 Release:	%mkrel 3
