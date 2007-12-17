@@ -7,7 +7,6 @@ Group:		Networking/Other
 URL:		http://sourceforge.net/projects/serialoverip
 Source0:	%{name}-%{version}.tar.bz2
 Patch0:		serialoverip-1.0-gcc3x.diff
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 Serial Over IP is a tool for the transport of serial interfaces over UDP/IP.
