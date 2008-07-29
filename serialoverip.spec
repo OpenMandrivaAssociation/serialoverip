@@ -1,7 +1,7 @@
 Summary:	Tool for transport of asynchronous serial devices over UDP/IP
 Name:		serialoverip
 Version:	1.0
-Release:	%mkrel 3
+Release:	%mkrel 5
 License:	GPL
 Group:		Networking/Other
 URL:		http://sourceforge.net/projects/serialoverip
