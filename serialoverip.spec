@@ -39,3 +39,40 @@ install -m0755 serialoverip %{buildroot}%{_bindir}/
 %{_bindir}/serialoverip
 
 
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 1.0-7mdv2010.0
++ Revision: 433705
+- rebuild
+
+* Sat Aug 02 2008 Thierry Vignaud <tvignaud@mandriva.com> 1.0-6mdv2009.0
++ Revision: 260627
+- rebuild
+
+* Tue Jul 29 2008 Thierry Vignaud <tvignaud@mandriva.com> 1.0-5mdv2009.0
++ Revision: 252336
+- rebuild
+
+* Wed Jan 02 2008 Olivier Blin <oblin@mandriva.com> 1.0-3mdv2008.1
++ Revision: 140792
+- restore BuildRoot
+
+  + Thierry Vignaud <tvignaud@mandriva.com>
+    - kill re-definition of %%buildroot on Pixel's request
+    - fix summary-ended-with-dot
+
+
+* Fri Jan 26 2007 Oden Eriksson <oeriksson@mandriva.com> 1.0-3mdv2007.0
++ Revision: 113792
+- Import serialoverip
+
+* Fri Jan 26 2007 Oden Eriksson <oeriksson@mandriva.com> 1.0-3mdv2007.1
+- use the mkrel macro
+
+* Sun Dec 25 2005 Oden Eriksson <oeriksson@mandriva.com> 1.0-2mdk
+- rebuild
+
+* Tue Nov 16 2004 Oden Eriksson <oeriksson@mandrakesoft.com> 1.0-1mdk
+- initial mandrake package
+
