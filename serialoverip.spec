@@ -4,7 +4,7 @@ Version:	1.0
 Release:	8
 License:	GPL
 Group:		Networking/Other
-URL:		http://sourceforge.net/projects/serialoverip
+URL:		https://sourceforge.net/projects/serialoverip
 Source0:	%{name}-%{version}.tar.bz2
 Patch0:		serialoverip-1.0-gcc3x.diff
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
